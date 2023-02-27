@@ -15,6 +15,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Selam Dünya");
+            Console.WriteLine("Selam Dünya");
+            Console.WriteLine("Selam Dünya");
+            Console.WriteLine("Selam Dünya");
         }
     }
 }
