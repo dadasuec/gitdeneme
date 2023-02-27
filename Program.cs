@@ -11,13 +11,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Selam Dünya");
-            Console.WriteLine("Selam Dünya");
-            Console.WriteLine("Selam Dünya");
-            Console.WriteLine("Selam Dünya");
         }
     }
 }
